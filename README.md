@@ -22,5 +22,22 @@ This repository contains various non-certification projects and practice exercis
 To run the code locally, clone the repository and navigate to the specific project folder. You can execute the JavaScript files using Node.js or open them in your browser's console for testing.
 
 ```bash
-git clone https://github.com/sudo-kishan267/fcc-JS-NonCert-Projects.git
-cd fcc-JS-NonCert-Projects
+git https://github.com/sudo-kishan267/fcc-javaScriptProjects.git
+cd fcc-javaScriptProjects
+```
+
+## Disclaimer
+
+These projects are provided for **reference purposes only** and should not be copied directly. They are meant to help others understand different approaches to solving coding challenges and implementing data structures.
+
+## Helping You on Your FreeCodeCamp Journey
+
+Embarking on your FreeCodeCamp journey can be both exciting and challenging. Here are a few tips to help you succeed:
+
+- **Start Small**: Break down each problem into manageable steps.
+- **Practice Regularly**: Consistent practice helps reinforce learning.
+- **Use Resources**: Don't hesitate to refer to documentation, tutorials, or communities like [MDN Web Docs](https://developer.mozilla.org/) or [Stack Overflow](https://stackoverflow.com/).
+- **Join a Community**: Participate in the [FreeCodeCamp Forum](https://forum.freecodecamp.org/) or other developer communities for support and motivation.
+- **Stay Patient**: Learning programming can take time, so be patient with yourself and enjoy the process.
+
+Good luck, and happy coding! Contributions and suggestions are welcome!

@@ -1,4 +1,4 @@
-# FreeCodeCamp JavaScript Algorithms and Data Structures - Non-Certification Projects
+# FreeCodeCamp JavaScript Algorithms and Data Structures(Beta) - Non-Certification Projects
 
 This repository contains various non-certification projects and practice exercises completed as part of the **JavaScript Algorithms and Data Structures** course on FreeCodeCamp. These projects highlight my continued exploration and application of JavaScript in solving algorithmic challenges and implementing data structures.
 

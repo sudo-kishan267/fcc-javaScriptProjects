@@ -4,11 +4,16 @@ This repository contains various non-certification projects and practice exercis
 
 ## Projects Included
 
-- **Project 1**: Array Manipulation Practice
-- **Project 2**: Object Oriented Programming Exercises
-- **Project 3**: Functional Programming Challenges
-- **Project 4**: Algorithm Practice (e.g., sorting algorithms, recursion)
-- **Project 5**: Data Structure Implementations (e.g., stacks, queues)
+- **Project 1**: Pyramid Generator
+- **Project 2**: GradeBook App
+- **Project 3**: Role Playing Game
+- **Project 4**: Random Background Checker
+- **Project 5**: Calorie Counter
+- **Project 6**: Rock, Paper, Scissors Game
+- **Project 7**: Music Player
+- **Project 8**: Date Formatter
+- **Project 9**: Football Team Cards
+- **Project 10**: Todo App
 
 ## Technologies Used
 

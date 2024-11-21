@@ -14,6 +14,9 @@ This repository contains various non-certification projects and practice exercis
 - **Project 8**: Date Formatter
 - **Project 9**: Football Team Cards
 - **Project 10**: Todo App
+- **Project 10**: Decimal to Binary Converter
+- **Project 12**: Spam Filter
+- **Project 13**: Number Sorter
 
 ## Technologies Used
 

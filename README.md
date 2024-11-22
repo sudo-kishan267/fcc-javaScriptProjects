@@ -17,6 +17,7 @@ This repository contains various non-certification projects and practice exercis
 - **Project 10**: Decimal to Binary Converter
 - **Project 12**: Spam Filter
 - **Project 13**: Number Sorter
+- **Project 14**: Statistics Calculator
 
 ## Technologies Used
 

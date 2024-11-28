@@ -18,6 +18,7 @@ This repository contains various non-certification projects and practice exercis
 - **Project 12**: Spam Filter
 - **Project 13**: Number Sorter
 - **Project 14**: Statistics Calculator
+- **Project 15**: Spread Sheet
 
 ## Technologies Used
 
